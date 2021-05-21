@@ -1,4 +1,4 @@
-# Dados-API-Criptomoedas :coin
+# Dados-API-Criptomoedas 💰
 ## Requisitando dados de uma API de criptomoedas
 
 Desenvolvi uma requisição de uma API de Criptomoeda com JavaScript. Para praticar e desenvolver minhas habilidades. 
